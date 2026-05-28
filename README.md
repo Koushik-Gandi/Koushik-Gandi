@@ -35,5 +35,4 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://shields.io)](https://linkedin.com) 
-[![Portfolio](https://shields.io)](https://github.io)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/mrudhukoushikgandi/) [![Portfolio](https://shields.io)](https://koushik-gandi.github.io/Personal-Portfolio/#/about)

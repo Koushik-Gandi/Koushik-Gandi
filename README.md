@@ -9,50 +9,11 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 
 ### 💻 Technical Toolbox
 
-<table>
-  <tr>
-    <td width="200"><b>Frontend Core</b></td>
-    <td>
-      <img src="https://badgen.net" alt="Angular" />
-      <img src="https://badgen.net" alt="TypeScript" />
-      <img src="https://badgen.net" alt="RxJS" />
-      <img src="https://badgen.net" alt="NgRx" />
-      <img src="https://badgen.net" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://badgen.net" alt="Java" />
-      <img src="https://badgen.net" alt="Spring Boot" />
-      <img src="https://badgen.net" alt="Node" />
-      <img src="https://badgen.net" alt="GraphQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://badgen.net" alt="Azure" />
-      <img src="https://badgen.net" alt="Kubernetes" />
-      <img src="https://badgen.net" alt="Docker" />
-      <img src="https://badgen.net" alt="GitHub Actions" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://badgen.net" alt="PostgreSQL" />
-      <img src="https://badgen.net" alt="SQL Server" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI Productivity</b></td>
-    <td>
-      <img src="https://badgen.net" alt="GitHub Copilot" />
-      <i>(GH-300 Certification In Progress)</i>
-    </td>
-  </tr>
-</table>
+- **Frontend Core:** Angular (v2-17+) | TypeScript | RxJS | NgRx Store | JavaScript (ES6+) | HTML5 | SCSS | Bootstrap 5 | Angular Material | PrimeNG
+- **Backend & APIs:** Java (11/17+) | Spring Boot | Node.js | Spring Security | RESTful APIs | GraphQL | Connectors | File Interfaces | Microservices Architecture
+- **Cloud & DevOps:** Microsoft Azure | Azure Kubernetes Service (AKS) | Azure Active Directory (Azure AD) | Azure App Services | Azure DevOps Pipelines | Docker | GitHub Actions | Jenkins | Git | SonarQube
+- **Databases & Quality:** PostgreSQL | Microsoft SQL Server | IBM DB2 | Database Schema Design | Query Optimization | Jasmine | Karma | JUnit | Test-Driven Development (TDD)
+- **AI Productivity:** GitHub Copilot *(GH-300 Certification In Progress)* | Prompt Engineering | Intelligent Code Completion
 
 ---
 
@@ -72,10 +33,5 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 
 ### 🌐 Connect With Me
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://badgen.net" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://github.io" target="_blank">
-  <img src="https://badgen.net" alt="Portfolio" />
-</a>
+- 👔 [**LinkedIn**](https://linkedin.com/in/mrudhukoushikgandi/) — Professional network and background timeline.
+- 🖥️ [**Personal Portfolio**](https://koushik-gandi.github.io/Personal-Portfolio/#/about) — Interactive CV and featured project architecture specs.

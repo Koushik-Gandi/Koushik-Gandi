@@ -9,14 +9,50 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 
 ### 💻 Technical Toolbox
 
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend Core** | ![Angular](https://shields.io) ![TypeScript](https://shields.io) ![RxJS](https://shields.io) ![NgRx](https://shields.io) ![JavaScript](https://shields.io) |
-| **Backend & APIs** | ![Java](https://shields.io) ![Spring Boot](https://shields.io) ![Node.js](https://shields.io) ![GraphQL](https://shields.io) |
-| **Cloud & DevOps** | ![Azure](https://shields.io) ![Kubernetes](https://shields.io) ![Docker](https://shields.io) ![GitHub Actions](https://shields.io) |
-| **Databases** | ![PostgreSQL](https://shields.io) ![SQL Server](https://shields.io) |
-| **AI Productivity** | ![GitHub Copilot](https://shields.io) *(GH-300 Certification In Progress)* |
+<table>
+  <tr>
+    <td width="200"><b>Frontend Core</b></td>
+    <td>
+      <img src="https://shields.io" alt="Angular" />
+      <img src="https://shields.io" alt="TypeScript" />
+      <img src="https://shields.io" alt="RxJS" />
+      <img src="https://shields.io" alt="NgRx" />
+      <img src="https://shields.io" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://shields.io" alt="Java" />
+      <img src="https://shields.io" alt="Spring Boot" />
+      <img src="https://shields.io" alt="Node" />
+      <img src="https://shields.io" alt="GraphQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://shields.io" alt="Azure" />
+      <img src="https://shields.io" alt="Kubernetes" />
+      <img src="https://shields.io" alt="Docker" />
+      <img src="https://shields.io" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://shields.io" alt="PostgreSQL" />
+      <img src="https://shields.io" alt="SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI Productivity</b></td>
+    <td>
+      <img src="https://shields.io" alt="GitHub Copilot" />
+      <i>(GH-300 Certification In Progress)</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,4 +71,10 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://shields.io)](https://linkedin.com/in/mrudhukoushikgandi/) [![Portfolio](https://shields.io)](https://koushik-gandi.github.io/Personal-Portfolio/#/about)
+
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="https://github.io" target="_blank">
+  <img src="https://shields.io" alt="Portfolio" />
+</a>

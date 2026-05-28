@@ -13,42 +13,42 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
   <tr>
     <td width="200"><b>Frontend Core</b></td>
     <td>
-      <img src="https://shields.io" alt="Angular" />
-      <img src="https://shields.io" alt="TypeScript" />
-      <img src="https://shields.io" alt="RxJS" />
-      <img src="https://shields.io" alt="NgRx" />
-      <img src="https://shields.io" alt="JavaScript" />
+      <img src="https://badgen.net" alt="Angular" />
+      <img src="https://badgen.net" alt="TypeScript" />
+      <img src="https://badgen.net" alt="RxJS" />
+      <img src="https://badgen.net" alt="NgRx" />
+      <img src="https://badgen.net" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td><b>Backend & APIs</b></td>
     <td>
-      <img src="https://shields.io" alt="Java" />
-      <img src="https://shields.io" alt="Spring Boot" />
-      <img src="https://shields.io" alt="Node" />
-      <img src="https://shields.io" alt="GraphQL" />
+      <img src="https://badgen.net" alt="Java" />
+      <img src="https://badgen.net" alt="Spring Boot" />
+      <img src="https://badgen.net" alt="Node" />
+      <img src="https://badgen.net" alt="GraphQL" />
     </td>
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
     <td>
-      <img src="https://shields.io" alt="Azure" />
-      <img src="https://shields.io" alt="Kubernetes" />
-      <img src="https://shields.io" alt="Docker" />
-      <img src="https://shields.io" alt="GitHub Actions" />
+      <img src="https://badgen.net" alt="Azure" />
+      <img src="https://badgen.net" alt="Kubernetes" />
+      <img src="https://badgen.net" alt="Docker" />
+      <img src="https://badgen.net" alt="GitHub Actions" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="https://shields.io" alt="PostgreSQL" />
-      <img src="https://shields.io" alt="SQL Server" />
+      <img src="https://badgen.net" alt="PostgreSQL" />
+      <img src="https://badgen.net" alt="SQL Server" />
     </td>
   </tr>
   <tr>
     <td><b>AI Productivity</b></td>
     <td>
-      <img src="https://shields.io" alt="GitHub Copilot" />
+      <img src="https://badgen.net" alt="GitHub Copilot" />
       <i>(GH-300 Certification In Progress)</i>
     </td>
   </tr>
@@ -73,8 +73,9 @@ Senior Full Stack Developer with **7 years of expertise** in architecting scalab
 ### 🌐 Connect With Me
 
 <a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn" />
+  <img src="https://badgen.net" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="https://github.io" target="_blank">
-  <img src="https://shields.io" alt="Portfolio" />
+  <img src="https://badgen.net" alt="Portfolio" />
 </a>
